@@ -12,7 +12,9 @@ This is a simple Python program that generates a **random secure password** base
 - Randomized order of characters to make the password more secure.  
 - Easy to use and modify.
 
----
+-----
+
+-----
 
 ## How to Use
 
